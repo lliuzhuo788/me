@@ -1,0 +1,10 @@
+{
+  "name":"拾光计划 - 个人备忘录与计划管理",
+  "short_name":"拾光计划",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#f5f6f2",
+  "theme_color":"#416b55",
+  "description":"个人备忘录、计划、日历、统计和修改历史",
+  "icons":[]
+}
